@@ -15,9 +15,11 @@ The key aim of this project is to apply multimedia data processing and analysis 
 ![Example scenes of the input video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/InputVideo.png)
 
 ## Example Scenes from the Output Video
+<p align="center">
+  <img src="https://github.com/mahsaBayat/IntelligentObject/blob/master/rsz_121.png" />
+</p>
 ![Example scenes of the output video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/rsz_121.png)
 ![Example scenes of the output video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/rsz_2.png)
-![Example scenes of the output video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/rsz_3.png)
 ![Example scenes of the output video.](https://github.com/mahsaBayat/IntelligentObject/blob/master/rsz_4.png)
 
 
